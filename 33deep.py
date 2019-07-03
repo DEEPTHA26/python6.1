@@ -1,2 +1,2 @@
-ms=input()
-print(ms.count(""))
+nx=input()
+print(nx.count(" "))
