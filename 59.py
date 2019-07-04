@@ -1,2 +1,2 @@
-count=input()
-print(len(count))
+count8=input()
+print(len(count8))
