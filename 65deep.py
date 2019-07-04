@@ -1,0 +1,2 @@
+inba=input()
+print(inba)
