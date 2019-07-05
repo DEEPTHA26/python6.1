@@ -1,5 +1,5 @@
-ad8,bd,cd8=input().split()
+ad8,bd8,cd8=input().split()
 ad8=int(ad8)
-bd=int(bd)
+bd8=int(bd8)
 cd8=int(cd8)
-print(ad8*b%dcd8)
+print(ad8*b%d8cd8)
