@@ -1,0 +1,5 @@
+numm1,numm2,numm3=input().split()
+numm1=int(numm1)
+numm2=int(numm2)
+numm3=int(numm3)
+print(int((numm1*numm2)/numm3)
