@@ -1,0 +1,5 @@
+z8,n2=input().split()
+z8=int(z8)
+n2=int(n2)
+listt=list(map(int,input().split()))
+print(listt[n2-1])
