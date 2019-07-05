@@ -1,0 +1,6 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+num1=list(map(int,input().split()))
+num1.sort()
+print(num1[b-1])
