@@ -1,0 +1,5 @@
+ad8,bd,cd8=input().split()
+ad8=int(ad8)
+bd=int(bd)
+cd8=int(cd8)
+print(ad8*b%dcd8)
