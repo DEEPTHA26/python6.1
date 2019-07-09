@@ -1,5 +1,5 @@
-u=int(input())
-fact = 1
-for i in range(1,u+1): 
-    fact = fact * i 
-    print (fact) 
+n26=int(input())
+fi=1
+for i in range(1,n26+1):
+  fi=fi*i
+print(fi)
